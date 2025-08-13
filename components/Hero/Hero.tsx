@@ -44,7 +44,7 @@ const Hero = () => {
         />
       </div>
       <div className={heroSection}>
-        <h1 className={my_name}>Hi, My name is Samuel Omanchi</h1>
+        <h1 className={my_name}>Hi, My name is Samuel Enyi Omanchi</h1>
 
         <ul className={duties}>
           {['Frontend Engineer', 'User Interface Designer'].map(
